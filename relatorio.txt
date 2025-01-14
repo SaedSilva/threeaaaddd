@@ -1,0 +1,4 @@
+Numero de threads: 1 - Tempo: 9.233172523 segundos
+Numero de threads: 2 - Tempo: 5.741211866 segundos
+Numero de threads: 3 - Tempo: 4.148904386 segundos
+Numero de threads: 4 - Tempo: 3.22138604 segundos
